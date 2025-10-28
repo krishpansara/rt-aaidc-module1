@@ -42,21 +42,6 @@ You can interact with this assistant through a **Command-Line Interface (CLI)**,
 
 ---
 
-## 📂 Folder Structure
-
-```
-rt-aaidc-module1/
-├── src/
-│   ├── app.py           # Main RAG application
-│   └── vectordb.py      # Vector database wrapper
-├── data/               # Contains documnets
-│   ├── *.txt          # Contains text files
-├── requirements.txt    # All dependencies included
-└── README.md          # This guide
-```
-
-
-
 
 ## 🎓 Learning Outcomes
 
@@ -69,9 +54,18 @@ By completing this project, you’ll learn to:
 
 ---
 
+## 📂 Folder Structure
 
-
-
+```
+rt-aaidc-module1/
+├── src/
+│   ├── app.py           # Main RAG application
+│   └── vectordb.py      # Vector database wrapper
+├── data/               # Contains documnets
+│   ├── *.txt          # Contains text files
+├── requirements.txt    # All dependencies included
+└── README.md          # This guide
+```
 
 
 ## ⚙️ Installation & Setup
